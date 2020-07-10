@@ -1,2 +1,2 @@
 # Practica-Jupyter
-las primeras prácticas con Juputer
+las primeras prácticas con Jupyter
